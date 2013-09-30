@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>Hadoop Launcher Maven Mojo</name>
+      <prefix>hadoop-launcher</prefix>
+      <artifactId>hadoop-launcher</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
