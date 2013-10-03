@@ -6,5 +6,10 @@
       <prefix>hadoop-launcher</prefix>
       <artifactId>hadoop-launcher</artifactId>
     </plugin>
+    <plugin>
+      <name>Hadoop Launcher Maven Mojo</name>
+      <prefix>launcher</prefix>
+      <artifactId>launcher-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>
